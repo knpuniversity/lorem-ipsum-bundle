@@ -112,7 +112,6 @@ class KnpUWordProvider implements WordProviderInterface
             'quality',
             'quintessential',
             'quick',
-
             'sunshine',
             'rainbows',
             'unicorns',
@@ -136,7 +135,7 @@ class KnpUWordProvider implements WordProviderInterface
             'baguettes',
             'presents',
             'fireworks',
-            'chocholate',
+            'chocolate',
             'marshmallow',
         ];
     }
