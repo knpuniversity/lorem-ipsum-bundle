@@ -43,6 +43,12 @@ class KnpUIpsum
         return implode("\n\n", $paragraphs);
     }
 
+    /**
+     * Returns sentences of random ipsum text. Minimum is 1.
+     *
+     * @param int $count
+     * @return string
+     */
     public function getSentences(int $count = 1): string
     {
         $count = $count < 1 ? 1 : $count;
