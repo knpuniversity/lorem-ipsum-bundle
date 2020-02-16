@@ -10,12 +10,6 @@ Install the package with:
 composer require knpuniversity/lorem-ipsum-bundle --dev
 ```
 
-For Symfony 5:
-
-```console
-composer require knpuniversity/lorem-ipsum-bundle:dev-feature/symfony5-update --dev
-```
-
 And... that's it! If you're *not* using Symfony Flex, you'll also
 need to enable the `KnpU\LoremIpsumBundle\KnpULoremIpsumBundle`
 in your `AppKernel.php` file.
