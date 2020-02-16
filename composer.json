@@ -1,5 +1,5 @@
 {
-    "name": "programarivm/lorem-ipsum-bundle",
+    "name": "knpuniversity/lorem-ipsum-bundle",
     "description": "Happy lorem ipsum",
     "type": "symfony-bundle",
     "license": "MIT",
