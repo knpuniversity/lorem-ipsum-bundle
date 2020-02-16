@@ -58,7 +58,7 @@ knpu_lorem_ipsum:
 
 ## Extending the Word List
 
-If you're feeling *especially* creative and excited, you can add
+If you're feeling *especially* creative and excited, you can add 
 your *own* words to the word generator!
 
 To do that, create a class that implements `WordProviderInterface`:
