@@ -10,6 +10,12 @@ Install the package with:
 composer require knpuniversity/lorem-ipsum-bundle --dev
 ```
 
+For Symfony 5:
+
+```console
+composer require knpuniversity/lorem-ipsum-bundle:dev-feature/symfony5-update --dev
+```
+
 And... that's it! If you're *not* using Symfony Flex, you'll also
 need to enable the `KnpU\LoremIpsumBundle\KnpULoremIpsumBundle`
 in your `AppKernel.php` file.
@@ -58,7 +64,7 @@ knpu_lorem_ipsum:
 
 ## Extending the Word List
 
-If you're feeling *especially* creative and excited, you can add 
+If you're feeling *especially* creative and excited, you can add
 your *own* words to the word generator!
 
 To do that, create a class that implements `WordProviderInterface`:
