@@ -1,3 +1,6 @@
+> WARNING: This bundle is an example bundle created in https://symfonycasts.com/screencast/symfony-bundle
+> and is not meant to be used as a dependency in a real application! 
+
 # Hello LoremIpsumBundle!
 
 LoremIpsumBundle is a way for you to generate "fake text" into
